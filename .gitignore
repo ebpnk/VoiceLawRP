@@ -1,0 +1,17 @@
+# Не загружать в репозиторий сборки и архивы релиза.
+*.zip
+*.rar
+*.7z
+*.exe
+
+# Служебные файлы
+app.log
+selftest.txt
+last_recording.wav
+laws.db-shm
+laws.db-wal
+*.pdb
+
+# Временные файлы Windows
+Thumbs.db
+desktop.ini
